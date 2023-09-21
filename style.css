@@ -42,7 +42,8 @@ h2{
     text-align: center;
 }
 button{
-    color:rgb(69, 52, 29)
+    color:rgb(69, 52, 29);
+    margin: 5px
 }
 li{
     list-style-type: none;
