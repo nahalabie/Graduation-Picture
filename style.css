@@ -44,3 +44,6 @@ h2{
 button{
     color:rgb(69, 52, 29)
 }
+li{
+    list-style-type: none;
+}
